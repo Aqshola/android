@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">hitung</string>
+    <string name="hitung_volume_balok">Hitung volume balok</string>
+    <string name="aplikasi_hitung_bangun_datar">Aplikasi Hitung bangun datar</string>
+    <string name="hitung_volume_tabung">Hitung volume Tabung</string>
+    <string name="hitung_volume_kerucut">Hitung volume kerucut</string>
+    <string name="title_activity_hitung_balok">hitungBalok</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="hasil">Hasil Volume</string>
+    <string name="hitung_volume">Hitung volume</string>
+
+
+    <string name="masukan_data_yang_dibutuhkan">Masukan data yang dibutuhkan</string>
+    <string name="hasil_volume">Hasil Volume</string>
+
+    <string name="jari_jari">Jari-jari</string>
+    <string name="masukan_data_tabung">Masukan data Tabung</string>
+    <string name="masukan_data_balok">Masukan data balok</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+</resources>
