@@ -12,13 +12,15 @@
     >
 
     <TextView
+
         android:layout_marginTop="19dp"
         android:textAlignment="center"
         android:textSize="20sp"
-        android:textColor="@color/black"
+        android:textColor="@color/purple_700"
+
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
-      android:text="@string/aplikasi_hitung_bangun_datar"
+      android:text="Aplikasi bangun ruang"
       app:layout_constraintBottom_toBottomOf="parent"
       app:layout_constraintLeft_toLeftOf="parent"
       app:layout_constraintRight_toRightOf="parent"
